@@ -56,19 +56,19 @@ Usage: git diff
 
 This command shows the file differences which are not yet staged.
 
-Git Diff Command - Git Commands - Edureka
+Git Diff Command - Git Commands 
 
  Usage: git diff –staged 
 
 This command shows the differences between the files in the staging area and the latest version present.
 
-Git Diff Command - Git Commands - Edureka
+Git Diff Command - Git Commands 
 
 Usage: git diff [first branch] [second branch]  
 
 This command shows the differences between the two branches mentioned.
 
-Git Diff Command - Git Commands - Edureka
+Git Diff Command - Git Commands
 git reset
 
 Usage: git reset [file]  
