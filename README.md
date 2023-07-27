@@ -7,7 +7,7 @@ Usage: git config –global user.email “[email address]”
 
 This command sets the author name and email address respectively to be used with your commits.
 
-Git Config Command - Git Commands - Edureka
+Git Config Command - Git Commands 
 git init
 
 Usage: git init [repository name]
@@ -16,40 +16,40 @@ Usage: git init [repository name]
 
 This command is used to start a new repository.
 
-GitInit Command - Git Commands - Edureka
+GitInit Command - Git Commands 
 git clone
 
 Usage: git clone [url]  
 
 This command is used to obtain a repository from an existing URL.
 
-Git Clone Command - Git Commands - Edureka
+Git Clone Command - Git Commands
 git add
 
 Usage: git add [file]  
 
 This command adds a file to the staging area.
 
-Git Add Command - Git Commands - Edureka
+Git Add Command - Git Commands 
 
 Usage: git add *  
 
 This command adds one or more to the staging area.
 
-Git Add Command - Git Commands - Edureka
+Git Add Command - Git Commands 
 git commit
 
 Usage: git commit -m “[ Type in the commit message]”  
 
 This command records or snapshots the file permanently in the version history.
 
-Git Commit Command - Git Commands - Edureka
+Git Commit Command - Git Commands 
 
 Usage: git commit -a  
 
 This command commits any files you’ve added with the git add command and also commits any files you’ve changed since then.
 
-Git Commit Command - Git Commands - Edureka
+Git Commit Command - Git Commands 
 git diff
 
 Usage: git diff  
