@@ -75,24 +75,24 @@ Usage: git reset [file]
 
 This command unstages the file, but it preserves the file contents.
 
-Git Reset Command - Git Commands - Edureka
+Git Reset Command - Git Commands
 
 Usage: git reset [commit]  
 
 This command undoes all the commits after the specified commit and preserves the changes locally.
 
-Git Reset Command - Git Commands - Edureka
+Git Reset Command - Git Commands
 
 Usage: git reset –hard [commit]  This command discards all history and goes back to the specified commit.
 
-Git Reset Command - Git Commands - Edureka
+Git Reset Command - Git Commands
 git status
 
 Usage: git status  
 
 This command lists all the files that have to be committed.
 
-Git Status Command - Git Commands - Edureka
+Git Status Command - Git Commands
 git rm
 
 Usage: git rm [file]  
