@@ -99,20 +99,20 @@ Usage: git rm [file]
 
 This command deletes the file from your working directory and stages the deletion.
 
-Git Rm Command - Git Commands - Edureka
+Git Rm Command - Git Commands
 git log
 
 Usage: git log  
 
 This command is used to list the version history for the current branch.
 
-Git Log Command - Git Commands - Edureka
+Git Log Command - Git Commands
 
 Usage: git log –follow[file]  
 
 This command lists version history for a file, including the renaming of files also.
 
-Git Log Command - Git Commands - Edureka
+Git Log Command - Git Commands
 git show
 
 Usage: git show [commit]  
