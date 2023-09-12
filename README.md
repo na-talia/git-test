@@ -145,27 +145,27 @@ Usage: git branch -d [branch name]
 
 This command deletes the feature branch.
 
-Git Branch Command - Git Commands - Edureka
+Git Branch Command - Git Commands
 git checkout
 
 Usage: git checkout [branch name]  
 
 This command is used to switch from one branch to another.
 
-Git Checkout Command - Git Commands - Edureka
+Git Checkout Command - Git Commands
 
 Usage: git checkout -b [branch name]  
 
 This command creates a new branch and also switches to it.
 
-Git Checkout Command - Git Commands - Edureka
+Git Checkout Command - Git Commands
 git merge
 
 Usage: git merge [branch name]  
 
 This command merges the specified branch’s history into the current branch.
 
-Git Merge Command - Git Commands - Edureka
+Git Merge Command - Git Commands
 git remote
 
 Usage: git remote add [variable name] [Remote Server Link]  
