@@ -119,27 +119,27 @@ Usage: git show [commit]
 
 This command shows the metadata and content changes of the specified commit.
 
-Git Show Command - Git Commands - Edureka
+Git Show Command - Git Commands
 git tag
 
 Usage: git tag [commitID]  
 
 This command is used to give tags to the specified commit.
 
-Git Tag Command - Git Commands - Edureka
+Git Tag Command - Git Commands
 git branch
 
 Usage: git branch  
 
 This command lists all the local branches in the current repository.
 
-Git Branch Command - Git Commands - Edureka
+Git Branch Command - Git Commands
 
 Usage: git branch [branch name]  
 
 This command creates a new branch.
 
-Git Branch Command - Git Commands - Edureka
+Git Branch Command - Git Commands
 
 Usage: git branch -d [branch name]  
 
