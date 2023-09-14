@@ -172,14 +172,14 @@ Usage: git remote add [variable name] [Remote Server Link]
 
 This command is used to connect your local repository to the remote server.
 
-Git Remote Command - Git Commands - Edureka
+Git Remote Command - Git Commands 
 git push
 
 Usage: git push [variable name] master  
 
 This command sends the committed changes of master branch to your remote repository.
 
-Git Push Command - Git Commands - Edureka
+Git Push Command - Git Commands 
 
 Usage: git push [variable name] [branch]  
 
