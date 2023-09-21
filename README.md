@@ -185,13 +185,13 @@ Usage: git push [variable name] [branch]
 
 This command sends the branch commits to your remote repository.
 
-Git Push Command - Git Commands - Edureka
+Git Push Command - Git Commands 
 
 Usage: git push –all [variable name]  
 
 This command pushes all branches to your remote repository.
 
-Git Push Command - Git Commands - Edureka
+Git Push Command - Git Commands
 
 Usage: git push [variable name] :[branch name]  
 
