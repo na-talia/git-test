@@ -197,7 +197,7 @@ Usage: git push [variable name] :[branch name]
 
 This command deletes a branch on your remote repository.
 
-Git Push Command - Git Commands - Edureka
+Git Push Command - Git Commands 
 git pull
 
 Usage: git pull [Repository Link]  
