@@ -211,7 +211,7 @@ Usage: git stash save
 
 This command temporarily stores all the modified tracked files.
 
-Git Stash Command - Git Commands - Edureka
+Git Stash Command - Git Commands
 
 Usage: git stash pop  
 
