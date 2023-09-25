@@ -223,7 +223,7 @@ Usage: git stash list
 
 This command lists all stashed changesets.
 
-Git Stash Command - Git Commands - Edureka
+Git Stash Command - Git Commands
 
 Usage: git stash drop  
 
