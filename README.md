@@ -217,7 +217,7 @@ Usage: git stash pop
 
 This command restores the most recently stashed files.
 
-Git Stash Command - Git Commands - Edureka
+Git Stash Command - Git Commands
 
 Usage: git stash list  
 
@@ -229,5 +229,5 @@ Usage: git stash drop
 
 This command discards the most recently stashed changeset.
 
-Git Stash Command - Git Commands -
+Git Stash Command - Git Commands
 
