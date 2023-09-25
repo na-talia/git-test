@@ -229,5 +229,5 @@ Usage: git stash drop
 
 This command discards the most recently stashed changeset.
 
-Git Stash Command - Git Commands - Edureka
+Git Stash Command - Git Commands -
 
