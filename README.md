@@ -204,7 +204,7 @@ Usage: git pull [Repository Link]
 
 This command fetches and merges changes on the remote server to your working directory.
 
-Git Pull Command - Git Commands - Edureka
+Git Pull Command - Git Commands
 git stash
 
 Usage: git stash save  
